@@ -3,17 +3,10 @@
     display: block;
     margin: 0 auto;
     vertical-align: middle;
+    max-width: 100%
     
 }
 
 *{
     text-align: center;
-}
-
-@media screen and (max-width: 768px) {
-
-    .img-class{
-        width: 100%;
-    }
-    
 }
