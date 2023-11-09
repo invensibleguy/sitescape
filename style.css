@@ -1,5 +1,8 @@
 
 .img-class{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
     display: block;
     margin: 0 auto;
     vertical-align: middle;
@@ -8,4 +11,19 @@
 
 *{
     text-align: center;
+}
+
+.headin{
+    color: #3D0C11;
+    background-color: #FFCC70;
+}
+
+a {
+    color: #016A70;
+    text-decoration: none; /* Remove underline */
+}
+
+html{
+    background-color: black;
+    color: antiquewhite;
 }
